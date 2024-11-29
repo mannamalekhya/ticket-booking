@@ -86,7 +86,7 @@ HTML_TEMPLATE = """
         }
         .actions button {
             background-color: #d9534f;
-            margin-right: 5px;
+            margin-right: 10px;
         }
         .actions button.update {
             background-color: #0275d8;
